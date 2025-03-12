@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://github.com/ewebeca">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rachel16bit&theme=ocean_dark&show_icons=true"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ewebeca&theme=ocean_dark&show_icons=true"/> 
 </div>
 
 <div style="display: inline_block"><br>
