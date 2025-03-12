@@ -5,7 +5,7 @@
 
 
 <div>
-  <a href="https://github.com/rachel16bit">
+  <a href="https://github.com/ewebeca">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rachel16bit&theme=ocean_dark&show_icons=true"/> 
 </div>
 
@@ -17,10 +17,10 @@
 ##
 
 <div>
- <a href="https://www.youtube.com/@rrquelita" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.instagram.com/rrquelita" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.youtube.com/@ewebeca" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.instagram.com/ewebeca" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/nraquelita" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-  <a href="https://www.x.com/rrquelita" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"_blank"></a> 
+  <a href="https://www.x.com/ewebeca" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"_blank"></a> 
 </div>
   <a href="https://www.linkedin.com/in/raquel-rodrigues11/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
@@ -28,7 +28,7 @@
 ## GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rachel16bit/rachel16bit/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rachel16bit/rachel16bit/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rachel16bit/rachel16bit/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ewebeca/ewebeca/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ewebeca/ewebeca/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ewebeca/ewebeca/output/github-contribution-grid-snake.svg">
 </picture>
